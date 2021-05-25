@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">L05 My Modules</string>
+    <string name="tvC346">C346: Mobile App Development</string>
+    <string name="tvC203">C203: Web AppIn Development in php</string>
+    <string name="tvC218">C218: UI/UX Design for Apps</string>
+    <string name="title1">Information about C346</string>
+    <string name="title2">Information about C203</string>
+    <string name="title3">Information about C218</string>
+    <string name="btnQuit">Quit</string>
+    <string name="btnC346">Back</string>
+    <string name="btnC203">Back</string>
+    <string name="btnC218">Back</string>
+</resources>

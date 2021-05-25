@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".FourthActivity"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/titleC218"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="90dp"
+        android:clickable="false"
+        android:ems="10"
+        android:linksClickable="false"
+        android:text="@string/title3"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvC218"
+        android:layout_marginTop="23dp"
+        android:layout_width="match_parent"
+        android:layout_height="304dp"
+        android:textSize="20dp"
+        android:background="@drawable/activitybg" />
+
+    <Button
+        android:id="@+id/btnBackC218"
+        android:layout_gravity="center"
+        android:layout_marginTop="200dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnC218" />
+</LinearLayout>
